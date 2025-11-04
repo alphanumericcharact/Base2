@@ -6,7 +6,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="Análisis de Sensores - Mi Ciudad",
+    page_title="Análisis de Sensores - Ciudad",
     page_icon="📊",
     layout="wide"
 )
